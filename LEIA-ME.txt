@@ -1,0 +1,20 @@
+SPA BEAUTY E ESTÉTICA — projeto acadêmico
+
+Abra o index.html no navegador (ou publique a pasta inteira no GitHub Pages/Netlify).
+Mantenha todos os arquivos juntos na mesma pasta.
+
+ARQUIVOS
+index.html  estrutura das páginas
+style.css   cores, fontes e layout (cores no começo: --rose, --gold, --bg...)
+dados.js    TEXTOS, PREÇOS, CONTATOS E IMAGENS (o mais editado)
+script.js   funcionamento (menu, agendamento, galeria)
+imagens/    coloque aqui logo e fotos
+
+LOGO: coloque logo.jpg na pasta imagens/ e, em dados.js, troque
+logo:"imagens/logo.svg" por logo:"imagens/logo.jpg".
+Se a logo já tiver o nome escrito, use logoMostrarNome:false.
+
+FOTOS: ponha o arquivo em imagens/ e preencha img:"imagens/arquivo.jpg"
+nos serviços e na galeria. Imagem da página inicial: imgInicio em CONFIG.
+
+WHATSAPP: troque wa (só números, com 55 e DDD) e waShow em dados.js.
